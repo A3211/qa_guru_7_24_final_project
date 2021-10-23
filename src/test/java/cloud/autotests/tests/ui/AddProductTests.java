@@ -30,13 +30,13 @@ public class AddProductTests {
 
     @Test
     void successfulRegistrationTest() {
-        registerPage.openPage();
-        registerPage.typeFirstName();
-        registerPage.typeLastName();
-        registerPage.typeEmail();
-        registerPage.typePassword();
-        registerPage.typeConfirmPassword();
-        registerPage.clickRegisterButton();
-        registerPage.checkSuccessfulRegistration();
+        registerPage.openPage()
+                    .typeFirstName()
+                    .typeLastName()
+                    .typeEmail()
+                    .typePassword()
+                    .typeConfirmPassword()
+                    .clickRegisterButton()
+                    .checkSuccessfulRegistration();
     }
 }

@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78f8c866-d99d-4768-80b0-5a3e68f4d8f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/data/CategoryItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/pages/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/tests/ui/AddProductTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cloud/autotests/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cloud/autotests/tests/ui/AddProductTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/tests/ui/AddProductTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

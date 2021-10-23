@@ -1,0 +1,8 @@
+cloud/autotests/pages/MainPage.java
+ cloud.autotests.pages.MainPage
+cloud/autotests/data/CategoryItem.java
+ cloud.autotests.data.CategoryItem
+cloud/autotests/pages/RegisterPage.java
+ cloud.autotests.pages.RegisterPage
+cloud/autotests/tests/ui/AddProductTests.java
+ cloud.autotests.tests.ui.AddProductTests

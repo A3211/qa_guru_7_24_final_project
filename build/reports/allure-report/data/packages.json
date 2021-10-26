@@ -1,0 +1,65 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests.ui.AddProductTests",
+    "children" : [ {
+      "name" : "addProductTest",
+      "uid" : "116d70ff275b2b7f",
+      "parentUid" : "c540f1252e2df9786e934d8b6fe21624",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633541284014,
+        "stop" : 1633541292312,
+        "duration" : 8298
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.ui.AddProductTests"
+  }, {
+    "name" : "cloud.autotests.tests.ui.AddProductTests",
+    "children" : [ {
+      "name" : "addProductTest",
+      "uid" : "a41ad2ad76a4cd48",
+      "parentUid" : "714a6fd133e2cbcb8e6ae04c7b55d85c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633714166495,
+        "stop" : 1633714172355,
+        "duration" : 5860
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkBooksQuantityTest",
+      "uid" : "3d836725d557059f",
+      "parentUid" : "714a6fd133e2cbcb8e6ae04c7b55d85c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633877764005,
+        "stop" : 1633877769666,
+        "duration" : 5661
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "successfulRegistrationTest",
+      "uid" : "7bdc2aae4d0d89b6",
+      "parentUid" : "714a6fd133e2cbcb8e6ae04c7b55d85c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635252181462,
+        "stop" : 1635252190032,
+        "duration" : 8570
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cloud.autotests.tests.ui.AddProductTests"
+  } ]
+}

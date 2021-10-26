@@ -1,0 +1,55 @@
+{
+  "uid" : "b8f2a274816e72c0",
+  "name" : "checkBooksQuantityTest()",
+  "fullName" : "cloud.autotests.tests.ui.AddProductTests.checkBooksQuantityTest",
+  "historyId" : "40ea2ab44f20c5f895f0af23b47d4dee",
+  "time" : {
+    "start" : 1633877665769,
+    "stop" : 1633877674393,
+    "duration" : 8624
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "kuslin"
+  }, {
+    "name" : "thread",
+    "value" : "17188@kuslin.Test worker(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "cloud.autotests.tests.ui.AddProductTests"
+  }, {
+    "name" : "testClass",
+    "value" : "cloud.autotests.tests.ui.AddProductTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkBooksQuantityTest"
+  }, {
+    "name" : "suite",
+    "value" : "cloud.autotests.tests.ui.AddProductTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8f2a274816e72c0.json",
+  "parameterValues" : [ ]
+}

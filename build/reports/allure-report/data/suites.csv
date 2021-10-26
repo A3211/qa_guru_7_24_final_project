@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 26 19:43:01 KRAT 2021","Tue Oct 26 19:43:10 KRAT 2021","8570","","cloud.autotests.tests.ui.AddProductTests","","cloud.autotests.tests.ui.AddProductTests","successfulRegistrationTest","successfulRegistrationTest()",""
+"passed","Sat Oct 09 00:29:26 KRAT 2021","Sat Oct 09 00:29:32 KRAT 2021","5860","","cloud.autotests.tests.ui.AddProductTests","","cloud.autotests.tests.ui.AddProductTests","addProductTest","addProductTest()",""
+"passed","Sun Oct 10 21:56:04 KRAT 2021","Sun Oct 10 21:56:09 KRAT 2021","5661","","cloud.autotests.tests.ui.AddProductTests","","cloud.autotests.tests.ui.AddProductTests","checkBooksQuantityTest","checkBooksQuantityTest()",""
+"passed","Thu Oct 07 00:28:04 KRAT 2021","Thu Oct 07 00:28:12 KRAT 2021","8298","","tests.ui.AddProductTests","","tests.ui.AddProductTests","addProductTest","addProductTest()",""

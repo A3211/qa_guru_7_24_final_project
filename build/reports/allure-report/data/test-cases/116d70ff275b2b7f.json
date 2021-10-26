@@ -1,0 +1,57 @@
+{
+  "uid" : "116d70ff275b2b7f",
+  "name" : "addProductTest()",
+  "fullName" : "tests.ui.AddProductTests.addProductTest",
+  "historyId" : "85eab3064d12466d575c05315c11974",
+  "time" : {
+    "start" : 1633541284014,
+    "stop" : 1633541292312,
+    "duration" : 8298
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "kuslin"
+  }, {
+    "name" : "thread",
+    "value" : "11772@kuslin.Test worker(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.ui.AddProductTests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ui.AddProductTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "addProductTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.ui.AddProductTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "116d70ff275b2b7f.json",
+  "parameterValues" : [ ]
+}

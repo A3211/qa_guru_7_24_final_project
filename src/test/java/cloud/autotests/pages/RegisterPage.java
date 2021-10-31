@@ -2,9 +2,7 @@ package cloud.autotests.pages;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
-import com.codeborne.selenide.selector.ByText;
 import com.github.javafaker.Faker;
-import com.github.javafaker.Name;
 import io.qameta.allure.Step;
 
 import static com.codeborne.selenide.Selenide.$;

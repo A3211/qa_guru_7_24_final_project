@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78f8c866-d99d-4768-80b0-5a3e68f4d8f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/helpers/AttachmentHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/tests/api/ReqresinTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/tests/api/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
@@ -14,17 +14,21 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/cloud/autotests/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/cloud/autotests/pages/MainPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/cloud/autotests/pages/RegisterPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/cloud/autotests/pages/RegisterPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cloud.autotests.tests.ui.AddProductTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cloud.autotests.tests.ui.AddProductTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/cloud/autotests/tests/ui/AddProductTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cloud.autotests.tests.ui.AddProductTests.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/cloud.autotests.tests.ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/cloud.autotests.tests.ui.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cloud.autotests.tests.ui.AddProductTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cloud.autotests.tests.ui.AddProductTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/cloud.autotests.tests.ui.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cloud.autotests.tests.ui.AddProductTests.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cloud/autotests/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/pages/MainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/cloud/autotests/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cloud/autotests/tests/ui/AddProductTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cloud/autotests/tests/ui/DemowebshopTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +104,13 @@
       <recent name="cloud.autotests.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.qa_guru_7_24_final_project [allureServe]">
-    <configuration name="AddProductTests.checkBooksQuantityTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.ReqresinTests.successLoginTest">
+    <configuration name="RegressinTests.successLoginTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;cloud.autotests.tests.ui.AddProductTests.checkBooksQuantityTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;cloud.autotests.tests.api.RegressinTests.successLoginTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -122,12 +126,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="AddProductTests.successfulRegistrationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReqresinTests.successCreate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;cloud.autotests.tests.ui.AddProductTests.successfulRegistrationTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;cloud.autotests.tests.api.ReqresinTests.successCreate&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -143,76 +147,76 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="qa_guru_7_24_final_project [allureReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReqresinTests.successDeleteTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="--tests &quot;cloud.autotests.tests.api.ReqresinTests.successDeleteTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="allureReport" />
+            <option value=":test" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="qa_guru_7_24_final_project [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReqresinTests.successLoginTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="--tests &quot;cloud.autotests.tests.api.ReqresinTests.successLoginTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="allureServe" />
+            <option value=":test" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="qa_guru_7_24_final_project [downloadAllure]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReqresinTests.successLoginTest1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="--tests &quot;cloud.autotests.tests.api.ReqresinTests.successLoginTest1&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="downloadAllure" />
+            <option value=":test" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.qa_guru_7_24_final_project [allureServe]" />
-        <item itemvalue="Gradle.qa_guru_7_24_final_project [allureReport]" />
-        <item itemvalue="Gradle.AddProductTests.successfulRegistrationTest" />
-        <item itemvalue="Gradle.qa_guru_7_24_final_project [downloadAllure]" />
-        <item itemvalue="Gradle.AddProductTests.checkBooksQuantityTest" />
+        <item itemvalue="Gradle.ReqresinTests.successLoginTest" />
+        <item itemvalue="Gradle.ReqresinTests.successLoginTest1" />
+        <item itemvalue="Gradle.ReqresinTests.successDeleteTest" />
+        <item itemvalue="Gradle.ReqresinTests.successCreate" />
+        <item itemvalue="Gradle.RegressinTests.successLoginTest" />
       </list>
     </recent_temporary>
   </component>

@@ -2,6 +2,7 @@ package cloud.autotests.tests.api;
 
 import cloud.autotests.tests.api.model.User;
 import io.restassured.RestAssured;
+import io.restassured.response.Response;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
@@ -17,6 +18,22 @@ public class ReqresinTests {
     }
 
     @Test
+    void registerUserTest() {
+        User user = new User();
+        user.setEmail("eve.holt@reqres.in");
+        user.setPassword("pistol");
+        given()
+                .contentType(JSON)
+                .body(user)
+                .when()
+                .post("/api/register")
+                .then()
+                .statusCode(200)
+                .body("id", is(4))
+                .body("token", is("QpwL5tke4Pnpja7X4"));
+    }
+
+    @Test
     void successLoginTest() {
         User user = new User();
         user.setEmail("eve.holt@reqres.in");
@@ -24,9 +41,9 @@ public class ReqresinTests {
         given()
                 .contentType(JSON)
                 .body(user)
-        .when()
+                .when()
                 .post("/api/login")
-        .then()
+                .then()
                 .statusCode(200)
                 .body("token", is("QpwL5tke4Pnpja7X4"));
     }

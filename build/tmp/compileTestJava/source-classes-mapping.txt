@@ -1,16 +1,24 @@
-cloud/autotests/tests/TestBase.java
- cloud.autotests.tests.TestBase
-cloud/autotests/data/CategoryItem.java
- cloud.autotests.data.CategoryItem
+cloud/autotests/tests/mobile/BrowserStackAndroidSelenideTests.java
+ cloud.autotests.tests.mobile.BrowserStackAndroidSelenideTests
 cloud/autotests/helpers/AttachmentHelper.java
  cloud.autotests.helpers.AttachmentHelper
 cloud/autotests/pages/MainPage.java
  cloud.autotests.pages.MainPage
 cloud/autotests/tests/ui/DemowebshopTests.java
  cloud.autotests.tests.ui.DemowebshopTests
-cloud/autotests/pages/RegisterPage.java
- cloud.autotests.pages.RegisterPage
 cloud/autotests/tests/api/model/User.java
  cloud.autotests.tests.api.model.User
+cloud/autotests/tests/mobile/BrowserStackAndroidSampleTests.java
+ cloud.autotests.tests.mobile.BrowserStackAndroidSampleTests
+cloud/autotests/data/CategoryItem.java
+ cloud.autotests.data.CategoryItem
+cloud/autotests/pages/RegisterPage.java
+ cloud.autotests.pages.RegisterPage
+cloud/autotests/tests/TestBase.java
+ cloud.autotests.tests.TestBase
+cloud/autotests/tests/mobile/TestBase.java
+ cloud.autotests.tests.mobile.TestBase
+cloud/autotests/drivers/BrowserStackMobileDriver.java
+ cloud.autotests.drivers.BrowserStackMobileDriver
 cloud/autotests/tests/api/ReqresinTests.java
  cloud.autotests.tests.api.ReqresinTests

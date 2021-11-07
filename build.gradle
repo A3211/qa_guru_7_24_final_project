@@ -29,6 +29,7 @@ dependencies {
             "org.assertj:assertj-core:3.19.0",
             "com.codeborne:selenide:$selenideVersion",
             "io.qameta.allure:allure-selenide:$allureVersion",
+            "io.appium:java-client:7.3.0",
             "io.qameta.allure:allure-rest-assured:$allureVersion",
             "com.github.javafaker:javafaker:1.0.2",
             "io.rest-assured:rest-assured:4.4.0",
